@@ -24,3 +24,23 @@ $git clone https://github.com/devMRNGN/simulating-bank.git
 * Esse projeto é bem simples, a utilização para ele é apenas simular um banco
 * Então caso queira brincar e simular o banco, siga os passos da instalação e boa diversão! :)
 * Foi criado com embasamento apenas de treinar minhas habilidades e minha lógica em C
+
+<html>
+  <div align="center">
+      <hr>
+      <a href="https://github.com/devMRNGN" target="_blank">     
+          <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=Github" alt="Github LOGO" target="_blank">
+      </a>
+      <a href="https://www.instagram.com/jota.mrngn/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=Instagram" alt="Instagram LOGO" target="_blank">
+      </a>
+      <a href="https://www.linkedin.com/in/jo%C3%A3o-marangoni-904a35238" target="_blank">
+        <img src="https://img.shields.io/badge/-Linkedin-8A0303?style=for-the-badge&logo=Linkedin" alt="Linkedin LOGO" target="_blank">
+      </a>
+      <a href="mailto:joao.tadeuzi00@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-008080?style=for-the-badge&logo=Gmail" alt="Gmail LOGO" target="_blank">
+      </a>
+      <img src="https://img.shields.io/badge/-Linguagem%20C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117" alt="C icon">
+      <div>
+  </div>
+</html>
